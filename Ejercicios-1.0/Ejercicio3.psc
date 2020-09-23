@@ -8,16 +8,14 @@ Algoritmo Ejercicio3
 	
 	 Si num1 > num2 Entonces;
 		Escribir "El mayor es " num1 
-		
+	SiNo
+		Si num2 > num1 Entonces
+			Escribir "El mayor es " num2
+		SiNo
+			Escribir "Los dos valores son iguales"
+		FinSi;
 	Fin Si;
-	Si num2 > num1 Entonces
-		Escribir "El mayor es " num2
-		
-	FinSi;
-	si  num1 = num2 Entonces
-		Escribir "Los dos valores son iguales"
-		
-	FinSi;
+
 	
 	
 	
