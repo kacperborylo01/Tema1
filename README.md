@@ -2,4 +2,4 @@
 
 ## Ejercicios Tema 1
 
-* 1.Ejemplo
+* Ejemplo
