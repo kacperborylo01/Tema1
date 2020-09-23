@@ -3,15 +3,16 @@ Algoritmo Ejemplo
 	Definir edad Como Entero;
 	Definir carnet Como Logico;
 	
-	nombre = "Kacper";
-	edad = 19;
+	//nombre = "Kacper";
+	//edad = 19;
 	carnet = Verdadero;
+	Escribir "Dame tu nombre"
+	Leer nombre;
+	Escribir "Dime tu edad"
+	Leer edad;
 	
 	Escribir nombre," ",edad," ",carnet
-	//Escribir nombre;
-	//Escribir edad;
-	//Escribir carnet;
-	//Escribir "Mi primer algoritmo";
+	
 	
 	
 FinAlgoritmo
