@@ -11,10 +11,10 @@ Algoritmo Ejercicio8
 	Leer mes;
 	descuento = importe * 0.15;
 	
-	Si mes = "octubre"   Entonces;
+	Si ((mes == "octubre") O (mes == "Octubre"))   Entonces
 		Escribir "Al ser octubre usted recibe un 15% de descuento en su compra, por lo cual tiene un descuento de "  descuento ," euros, siendo el importe final de " importe - descuento ," euros"
 	SiNo
 		Escribir "Este mes no disponemos de ningun descuento, debe abonar " importe ,"euros"
-	Fin Si;
+	Fin Si
 	
 FinAlgoritmo
