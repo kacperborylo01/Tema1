@@ -9,8 +9,8 @@ Algoritmo sin_titulo
 	Escribir "Introduce el numero de niños en la clase"
 	Leer niños
 	total = niñas + niños
-	Escribir "El porcentaje de niños es " total * niños / 100 "%"
-	Escribir "El porcentaje de niñas es " total * niñas / 100 "%"
+	Escribir "El porcentaje de niños es "  niños / total * 100 "%"
+	Escribir "El porcentaje de niñas es "  niñas / total * 100 "%"
 	
 	
 FinAlgoritmo
