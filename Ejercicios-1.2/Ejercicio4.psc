@@ -4,7 +4,7 @@ Algoritmo Ejercicio4
 	suma = 0
 	
 	Escribir "Suma de los 100 primeros numeros"
-	Mientras num < 100 Hacer
+	Mientras num <= 100 Hacer
 		suma = suma + num
 		num = num + 1
 	Fin Mientras
