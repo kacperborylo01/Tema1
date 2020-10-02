@@ -17,6 +17,6 @@ Algoritmo Ejercicio6
 		
 		unid = unid + 1
 	Fin Mientras
-	Escribir cont
+	Escribir "Los multiplos de 3 entre 3 y ", num  " es: ", cont
 	
 FinAlgoritmo
