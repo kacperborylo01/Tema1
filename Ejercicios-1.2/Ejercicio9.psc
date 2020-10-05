@@ -11,7 +11,7 @@ Algoritmo Ejercicio9
 			num = num +1
 			
 		FinMientras
-		
+		Escribir "--------------------------"
 		cont = cont + 1
 		
 		
