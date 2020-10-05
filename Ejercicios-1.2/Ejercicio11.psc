@@ -1,5 +1,5 @@
 Algoritmo Ejercicio11
-	Definir num, factorial, mult Como Entero
+	Definir num, factorial, mult Como Real
 	
 	Escribir "Escribe un número y te diré su factorial"
 	leer num
