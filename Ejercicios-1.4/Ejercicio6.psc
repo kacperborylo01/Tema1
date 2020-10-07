@@ -1,7 +1,7 @@
 Algoritmo Ejercicio6
 	
 	Definir nombre, correcion Como Caracter;
-	Definir i,j Como Entero;
+	Definir i Como Entero;
 	
 	
 	Escribir "Escribe Tu Nombre";
